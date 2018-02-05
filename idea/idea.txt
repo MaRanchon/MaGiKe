@@ -1,0 +1,3 @@
+Ajout d'idées à travailler sur ce dossier/
+
+- Teste du gitignore 
